@@ -1,0 +1,23 @@
+{
+  "name": "Lounge",
+  "version": "0.1.0",
+  "description": "Lounge irc interface",
+  "main": "index.js",
+  "author": "Oscar Storbacka <ostorbacka@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "INSERT_YOUR_LOUNGE_URL",
+    "serviceName": "The Lounge",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
